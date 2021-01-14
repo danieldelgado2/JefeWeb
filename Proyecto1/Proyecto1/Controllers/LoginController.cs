@@ -23,5 +23,11 @@ namespace Proyecto1.API.Controllers
             return _usuarioBL.Login(usuarioDTO);
         }
 
+        [HttpGet]
+        public string Login()
+        {
+            return "Estas en el login";
+        }
+
     }
 }

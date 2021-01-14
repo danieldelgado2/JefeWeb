@@ -12,7 +12,7 @@ namespace Proyecto1.BL.Implementations
 
         public bool Login(UsuarioDTO usuarioDTO)
         {
-            return usuarioDTO.Username == "ventas" && usuarioDTO.Password == "1234";
+            return usuarioDTO.Login == "ventas" && usuarioDTO.Password == "1234";
         }
     }
 }

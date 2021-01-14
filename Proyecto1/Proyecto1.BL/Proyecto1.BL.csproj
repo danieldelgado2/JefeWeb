@@ -3,11 +3,6 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Contracts\" />
-    <Folder Include="Implementations\" />
-  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Proyecto1.Core\Proyecto1.Core.csproj" />
     <ProjectReference Include="..\Proyecto1.DAL\Proyecto1.DAL.csproj" />

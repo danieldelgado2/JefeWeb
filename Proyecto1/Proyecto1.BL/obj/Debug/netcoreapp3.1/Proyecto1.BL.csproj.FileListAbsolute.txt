@@ -22,3 +22,17 @@
 /Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/obj/Debug/netcoreapp3.1/Proyecto1.BL.csproj.CopyComplete
 /Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/obj/Debug/netcoreapp3.1/Proyecto1.BL.dll
 /Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/obj/Debug/netcoreapp3.1/Proyecto1.BL.pdb
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.BL\bin\Debug\netcoreapp3.1\Proyecto1.BL.deps.json
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.BL\bin\Debug\netcoreapp3.1\Proyecto1.BL.dll
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.BL\bin\Debug\netcoreapp3.1\Proyecto1.BL.pdb
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.BL\bin\Debug\netcoreapp3.1\Proyecto1.Core.dll
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.BL\bin\Debug\netcoreapp3.1\Proyecto1.DAL.dll
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.BL\bin\Debug\netcoreapp3.1\Proyecto1.Core.pdb
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.BL\bin\Debug\netcoreapp3.1\Proyecto1.DAL.pdb
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.BL\obj\Debug\netcoreapp3.1\Proyecto1.BL.csprojAssemblyReference.cache
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.BL\obj\Debug\netcoreapp3.1\Proyecto1.BL.AssemblyInfoInputs.cache
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.BL\obj\Debug\netcoreapp3.1\Proyecto1.BL.AssemblyInfo.cs
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.BL\obj\Debug\netcoreapp3.1\Proyecto1.BL.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.BL\obj\Debug\netcoreapp3.1\Proyecto1.BL.csproj.CopyComplete
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.BL\obj\Debug\netcoreapp3.1\Proyecto1.BL.dll
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.BL\obj\Debug\netcoreapp3.1\Proyecto1.BL.pdb

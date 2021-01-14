@@ -16,3 +16,12 @@
 /Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/obj/Debug/netcoreapp3.1/Proyecto1.Core.csproj.CoreCompileInputs.cache
 /Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/obj/Debug/netcoreapp3.1/Proyecto1.Core.dll
 /Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/obj/Debug/netcoreapp3.1/Proyecto1.Core.pdb
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.Core\bin\Debug\netcoreapp3.1\Proyecto1.Core.deps.json
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.Core\bin\Debug\netcoreapp3.1\Proyecto1.Core.dll
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.Core\bin\Debug\netcoreapp3.1\Proyecto1.Core.pdb
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.Core\obj\Debug\netcoreapp3.1\Proyecto1.Core.csprojAssemblyReference.cache
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.Core\obj\Debug\netcoreapp3.1\Proyecto1.Core.AssemblyInfoInputs.cache
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.Core\obj\Debug\netcoreapp3.1\Proyecto1.Core.AssemblyInfo.cs
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.Core\obj\Debug\netcoreapp3.1\Proyecto1.Core.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.Core\obj\Debug\netcoreapp3.1\Proyecto1.Core.dll
+C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.Core\obj\Debug\netcoreapp3.1\Proyecto1.Core.pdb

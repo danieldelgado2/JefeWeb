@@ -1,0 +1,9 @@
+/Users/spare/Desktop/Proyecto1/Proyecto1.Core/bin/Debug/netcoreapp3.1/Proyecto1.Core.deps.json
+/Users/spare/Desktop/Proyecto1/Proyecto1.Core/bin/Debug/netcoreapp3.1/Proyecto1.Core.dll
+/Users/spare/Desktop/Proyecto1/Proyecto1.Core/bin/Debug/netcoreapp3.1/Proyecto1.Core.pdb
+/Users/spare/Desktop/Proyecto1/Proyecto1.Core/obj/Debug/netcoreapp3.1/Proyecto1.Core.csprojAssemblyReference.cache
+/Users/spare/Desktop/Proyecto1/Proyecto1.Core/obj/Debug/netcoreapp3.1/Proyecto1.Core.AssemblyInfoInputs.cache
+/Users/spare/Desktop/Proyecto1/Proyecto1.Core/obj/Debug/netcoreapp3.1/Proyecto1.Core.AssemblyInfo.cs
+/Users/spare/Desktop/Proyecto1/Proyecto1.Core/obj/Debug/netcoreapp3.1/Proyecto1.Core.csproj.CoreCompileInputs.cache
+/Users/spare/Desktop/Proyecto1/Proyecto1.Core/obj/Debug/netcoreapp3.1/Proyecto1.Core.dll
+/Users/spare/Desktop/Proyecto1/Proyecto1.Core/obj/Debug/netcoreapp3.1/Proyecto1.Core.pdb

@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Proyecto1.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Proyecto1.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Proyecto1.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto1.Core/1.0.0": {
+      "type": "project",
+      "path": "../Proyecto1.Core/Proyecto1.Core.csproj",
+      "msbuildProject": "../Proyecto1.Core/Proyecto1.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Proyecto1.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/spare/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/spare/Desktop/Proyecto1/Proyecto1.BL/Proyecto1.BL.csproj",
+      "projectName": "Proyecto1.BL",
+      "projectPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.BL/Proyecto1.BL.csproj",
+      "packagesPath": "/Users/spare/.nuget/packages/",
+      "outputPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.BL/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/spare/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj": {
+              "projectPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

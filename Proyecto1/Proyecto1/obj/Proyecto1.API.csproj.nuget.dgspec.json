@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/spare/Desktop/Proyecto1/Proyecto1/Proyecto1.API.csproj": {}
+    "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1/Proyecto1.API.csproj": {}
   },
   "projects": {
-    "/Users/spare/Desktop/Proyecto1/Proyecto1.BL/Proyecto1.BL.csproj": {
+    "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/Proyecto1.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/spare/Desktop/Proyecto1/Proyecto1.BL/Proyecto1.BL.csproj",
+        "projectUniqueName": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/Proyecto1.BL.csproj",
         "projectName": "Proyecto1.BL",
-        "projectPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.BL/Proyecto1.BL.csproj",
+        "projectPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/Proyecto1.BL.csproj",
         "packagesPath": "/Users/spare/.nuget/packages/",
-        "outputPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.BL/obj/",
+        "outputPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/spare/.config/NuGet/NuGet.Config"
@@ -26,8 +26,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj": {
-                "projectPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj"
+              "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj": {
+                "projectPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj"
+              },
+              "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/Proyecto1.DAL.csproj": {
+                "projectPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/Proyecto1.DAL.csproj"
               }
             }
           }
@@ -60,14 +63,14 @@
         }
       }
     },
-    "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj": {
+    "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj",
+        "projectUniqueName": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj",
         "projectName": "Proyecto1.Core",
-        "projectPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj",
+        "projectPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj",
         "packagesPath": "/Users/spare/.nuget/packages/",
-        "outputPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/obj/",
+        "outputPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/spare/.config/NuGet/NuGet.Config"
@@ -112,14 +115,14 @@
         }
       }
     },
-    "/Users/spare/Desktop/Proyecto1/Proyecto1.DAL/Proyecto1.DAL.csproj": {
+    "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/Proyecto1.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/spare/Desktop/Proyecto1/Proyecto1.DAL/Proyecto1.DAL.csproj",
+        "projectUniqueName": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/Proyecto1.DAL.csproj",
         "projectName": "Proyecto1.DAL",
-        "projectPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.DAL/Proyecto1.DAL.csproj",
+        "projectPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/Proyecto1.DAL.csproj",
         "packagesPath": "/Users/spare/.nuget/packages/",
-        "outputPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.DAL/obj/",
+        "outputPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/spare/.config/NuGet/NuGet.Config"
@@ -134,11 +137,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/spare/Desktop/Proyecto1/Proyecto1.BL/Proyecto1.BL.csproj": {
-                "projectPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.BL/Proyecto1.BL.csproj"
-              },
-              "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj": {
-                "projectPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj"
+              "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj": {
+                "projectPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj"
               }
             }
           }
@@ -197,14 +197,14 @@
         }
       }
     },
-    "/Users/spare/Desktop/Proyecto1/Proyecto1/Proyecto1.API.csproj": {
+    "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1/Proyecto1.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/spare/Desktop/Proyecto1/Proyecto1/Proyecto1.API.csproj",
+        "projectUniqueName": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1/Proyecto1.API.csproj",
         "projectName": "Proyecto1.API",
-        "projectPath": "/Users/spare/Desktop/Proyecto1/Proyecto1/Proyecto1.API.csproj",
+        "projectPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1/Proyecto1.API.csproj",
         "packagesPath": "/Users/spare/.nuget/packages/",
-        "outputPath": "/Users/spare/Desktop/Proyecto1/Proyecto1/obj/",
+        "outputPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/spare/.config/NuGet/NuGet.Config"
@@ -219,14 +219,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/spare/Desktop/Proyecto1/Proyecto1.BL/Proyecto1.BL.csproj": {
-                "projectPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.BL/Proyecto1.BL.csproj"
+              "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/Proyecto1.BL.csproj": {
+                "projectPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/Proyecto1.BL.csproj"
               },
-              "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj": {
-                "projectPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj"
+              "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj": {
+                "projectPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj"
               },
-              "/Users/spare/Desktop/Proyecto1/Proyecto1.DAL/Proyecto1.DAL.csproj": {
-                "projectPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.DAL/Proyecto1.DAL.csproj"
+              "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/Proyecto1.DAL.csproj": {
+                "projectPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/Proyecto1.DAL.csproj"
               }
             }
           }

@@ -19,5 +19,6 @@ namespace Proyecto1.DAL.Repositories.Implementations
         {
             return _context.Usuarios.Any(u => u.Login == usuarioDTO.Username && u.Password == usuarioDTO.Password);
         }
+
     }
 }

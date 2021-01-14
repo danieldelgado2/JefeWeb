@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Proyecto1.Core\Proyecto1.Core.csproj" />
-    <ProjectReference Include="..\Proyecto1.BL\Proyecto1.BL.csproj" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.7">

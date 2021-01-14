@@ -10,3 +10,15 @@
 /Users/spare/Desktop/Proyecto1/Proyecto1.BL/obj/Debug/netcoreapp3.1/Proyecto1.BL.csproj.CopyComplete
 /Users/spare/Desktop/Proyecto1/Proyecto1.BL/obj/Debug/netcoreapp3.1/Proyecto1.BL.dll
 /Users/spare/Desktop/Proyecto1/Proyecto1.BL/obj/Debug/netcoreapp3.1/Proyecto1.BL.pdb
+/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/bin/Debug/netcoreapp3.1/Proyecto1.BL.deps.json
+/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/bin/Debug/netcoreapp3.1/Proyecto1.BL.dll
+/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/bin/Debug/netcoreapp3.1/Proyecto1.BL.pdb
+/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/bin/Debug/netcoreapp3.1/Proyecto1.Core.dll
+/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/bin/Debug/netcoreapp3.1/Proyecto1.Core.pdb
+/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/obj/Debug/netcoreapp3.1/Proyecto1.BL.csprojAssemblyReference.cache
+/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/obj/Debug/netcoreapp3.1/Proyecto1.BL.AssemblyInfoInputs.cache
+/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/obj/Debug/netcoreapp3.1/Proyecto1.BL.AssemblyInfo.cs
+/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/obj/Debug/netcoreapp3.1/Proyecto1.BL.csproj.CoreCompileInputs.cache
+/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/obj/Debug/netcoreapp3.1/Proyecto1.BL.csproj.CopyComplete
+/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/obj/Debug/netcoreapp3.1/Proyecto1.BL.dll
+/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/obj/Debug/netcoreapp3.1/Proyecto1.BL.pdb

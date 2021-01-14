@@ -10,5 +10,6 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Proyecto1.Core\Proyecto1.Core.csproj" />
+    <ProjectReference Include="..\Proyecto1.DAL\Proyecto1.DAL.csproj" />
   </ItemGroup>
 </Project>

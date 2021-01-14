@@ -33,7 +33,16 @@ namespace Proyecto1
         {
             services.AddControllers();
 
-            services.AddDbContext<tallerContext>(opts => opts.UseMySql(Configuration["ConnectionString:TallerDB"]));
+            //Para habilitar CORS en nuestra API
+            services.AddCors(options =>
+            {
+                options.AddPolicy("CorsPolicy",
+                    builder => builder.AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowAnyHeader());
+            });
+
+            services.AddDbContext<TallerContext>(opts => opts.UseMySql(Configuration["ConnectionString:TallerDB"]));
 
             services.AddScoped<IUsuarioBL, UsuarioBL>();
             services.AddScoped<IUsuarioRepository, UsuarioRepository>();

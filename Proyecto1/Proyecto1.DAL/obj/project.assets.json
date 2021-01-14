@@ -1809,19 +1809,6 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Proyecto1.BL/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Proyecto1.Core": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Proyecto1.BL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Proyecto1.BL.dll": {}
-        }
-      },
       "Proyecto1.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -6349,11 +6336,6 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Proyecto1.BL/1.0.0": {
-      "type": "project",
-      "path": "../Proyecto1.BL/Proyecto1.BL.csproj",
-      "msbuildProject": "../Proyecto1.BL/Proyecto1.BL.csproj"
-    },
     "Proyecto1.Core/1.0.0": {
       "type": "project",
       "path": "../Proyecto1.Core/Proyecto1.Core.csproj",
@@ -6367,7 +6349,6 @@
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.7",
       "MySql.Data.EntityFrameworkCore >= 8.0.22",
       "Pomelo.EntityFrameworkCore.MySql >= 3.1.2",
-      "Proyecto1.BL >= 1.0.0",
       "Proyecto1.Core >= 1.0.0"
     ]
   },
@@ -6377,11 +6358,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/spare/Desktop/Proyecto1/Proyecto1.DAL/Proyecto1.DAL.csproj",
+      "projectUniqueName": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/Proyecto1.DAL.csproj",
       "projectName": "Proyecto1.DAL",
-      "projectPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.DAL/Proyecto1.DAL.csproj",
+      "projectPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/Proyecto1.DAL.csproj",
       "packagesPath": "/Users/spare/.nuget/packages/",
-      "outputPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.DAL/obj/",
+      "outputPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/spare/.config/NuGet/NuGet.Config"
@@ -6396,11 +6377,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/spare/Desktop/Proyecto1/Proyecto1.BL/Proyecto1.BL.csproj": {
-              "projectPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.BL/Proyecto1.BL.csproj"
-            },
-            "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj": {
-              "projectPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj"
+            "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj": {
+              "projectPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj": {}
+    "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj": {}
   },
   "projects": {
-    "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj": {
+    "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj",
+        "projectUniqueName": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj",
         "projectName": "Proyecto1.Core",
-        "projectPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj",
+        "projectPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj",
         "packagesPath": "/Users/spare/.nuget/packages/",
-        "outputPath": "/Users/spare/Desktop/Proyecto1/Proyecto1.Core/obj/",
+        "outputPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/spare/.config/NuGet/NuGet.Config"

@@ -17,7 +17,7 @@ namespace Proyecto1.DAL.Repositories.Implementations
 
         public bool Login(UsuarioDTO usuarioDTO)
         {
-            return _context.Usuarios.Any(u => u.Login == usuarioDTO.Username && u.Password == usuarioDTO.Password);
+            return _context.Usuarios.Any(u => u.Login == usuarioDTO.Login && u.Password == usuarioDTO.Password);
         }
 
     }

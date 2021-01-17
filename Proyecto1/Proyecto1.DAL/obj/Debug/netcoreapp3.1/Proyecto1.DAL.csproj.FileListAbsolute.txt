@@ -20,10 +20,8 @@
 /Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/bin/Debug/netcoreapp3.1/Proyecto1.DAL.runtimeconfig.dev.json
 /Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/bin/Debug/netcoreapp3.1/Proyecto1.DAL.dll
 /Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/bin/Debug/netcoreapp3.1/Proyecto1.DAL.pdb
-/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/bin/Debug/netcoreapp3.1/Proyecto1.BL.dll
 /Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/bin/Debug/netcoreapp3.1/Proyecto1.Core.dll
 /Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/bin/Debug/netcoreapp3.1/Proyecto1.Core.pdb
-/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/bin/Debug/netcoreapp3.1/Proyecto1.BL.pdb
 /Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/obj/Debug/netcoreapp3.1/Proyecto1.DAL.csprojAssemblyReference.cache
 /Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/obj/Debug/netcoreapp3.1/Proyecto1.DAL.AssemblyInfoInputs.cache
 /Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/obj/Debug/netcoreapp3.1/Proyecto1.DAL.AssemblyInfo.cs

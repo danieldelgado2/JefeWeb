@@ -1566,7 +1566,8 @@
       },
       "Proyecto1.BL/1.0.0": {
         "dependencies": {
-          "Proyecto1.Core": "1.0.0"
+          "Proyecto1.Core": "1.0.0",
+          "Proyecto1.DAL": "1.0.0"
         },
         "runtime": {
           "Proyecto1.BL.dll": {}
@@ -1588,7 +1589,6 @@
           "Microsoft.EntityFrameworkCore.Relational": "3.1.7",
           "MySql.Data.EntityFrameworkCore": "8.0.22",
           "Pomelo.EntityFrameworkCore.MySql": "3.1.2",
-          "Proyecto1.BL": "1.0.0",
           "Proyecto1.Core": "1.0.0"
         },
         "runtime": {

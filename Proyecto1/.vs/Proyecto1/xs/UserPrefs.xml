@@ -1,35 +1,32 @@
 ﻿<Properties StartupConfiguration="{A6C53126-DD2E-4DA6-92FE-230B110FBAB5}|Proyecto1">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Proyecto1.Core/DTO/UsuarioDTO.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Proyecto1/appsettings.json">
     <Files>
-      <File FileName="Proyecto1.DAL/Models/tallerContext.cs" Line="27" Column="64" />
-      <File FileName="Proyecto1/appsettings.json" />
-      <File FileName="Proyecto1/Startup.cs" />
-      <File FileName="Proyecto1.DAL/Repositories/Implementations/UsuarioRepository.cs" />
-      <File FileName="Proyecto1.DAL/Models/Clientes.cs" />
-      <File FileName="Proyecto1.Core/DTO/VentaDTO.cs" />
-      <File FileName="Proyecto1/Program.cs" Line="27" Column="1" />
-      <File FileName="Proyecto1.BL/Implementations/UsuarioBL.cs" Line="1" Column="1" />
-      <File FileName="Proyecto1.Core/DTO/UsuarioDTO.cs" Line="6" Column="29" />
+      <File FileName="Proyecto1/Startup.cs" Line="45" Column="114" />
+      <File FileName="Proyecto1.DAL/Repositories/Implementations/UsuarioRepository.cs" Line="20" Column="1" />
+      <File FileName="Proyecto1/appsettings.json" Line="14" Column="1" />
+      <File FileName="Proyecto1/Controllers/LoginController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Proyecto1" expanded="True">
-            <Node name="Proyecto1.API" expanded="True" />
+            <Node name="Proyecto1.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
             <Node name="Proyecto1.BL" expanded="True">
               <Node name="Contracts" expanded="True" />
               <Node name="Implementations" expanded="True" />
             </Node>
             <Node name="Proyecto1.Core" expanded="True">
-              <Node name="DTO" expanded="True">
-                <Node name="UsuarioDTO.cs" selected="True" />
-              </Node>
+              <Node name="DTO" expanded="True" />
             </Node>
             <Node name="Proyecto1.DAL" expanded="True">
               <Node name="Dependencies" expanded="True">
-                <Node name="ProjectDependencies" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
               </Node>
               <Node name="Repositories" expanded="True">
+                <Node name="Contracts" expanded="True" />
                 <Node name="Implementations" expanded="True" />
               </Node>
             </Node>

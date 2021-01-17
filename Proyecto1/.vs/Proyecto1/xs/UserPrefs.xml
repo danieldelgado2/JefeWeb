@@ -1,10 +1,12 @@
 ﻿<Properties StartupConfiguration="{A6C53126-DD2E-4DA6-92FE-230B110FBAB5}|Proyecto1">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Proyecto1/appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Proyecto1.DAL/Models/Usuarios.cs">
     <Files>
       <File FileName="Proyecto1/Startup.cs" Line="45" Column="114" />
-      <File FileName="Proyecto1.DAL/Repositories/Implementations/UsuarioRepository.cs" Line="20" Column="1" />
+      <File FileName="Proyecto1.DAL/Repositories/Implementations/UsuarioRepository.cs" Line="25" Column="1" />
       <File FileName="Proyecto1/appsettings.json" Line="14" Column="1" />
       <File FileName="Proyecto1/Controllers/LoginController.cs" Line="1" Column="1" />
+      <File FileName="Proyecto1.Core/DTO/UsuarioDTO.cs" Line="15" Column="1" />
+      <File FileName="Proyecto1.DAL/Models/Usuarios.cs" Line="20" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +14,6 @@
           <Node name="Proyecto1" expanded="True">
             <Node name="Proyecto1.API" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="appsettings.json" selected="True" />
             </Node>
             <Node name="Proyecto1.BL" expanded="True">
               <Node name="Contracts" expanded="True" />
@@ -24,6 +25,9 @@
             <Node name="Proyecto1.DAL" expanded="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Usuarios.cs" selected="True" />
               </Node>
               <Node name="Repositories" expanded="True">
                 <Node name="Contracts" expanded="True" />

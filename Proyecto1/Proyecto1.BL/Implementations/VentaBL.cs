@@ -22,6 +22,20 @@ namespace Proyecto1.BL.Implementations
         {
             var ventas = _ventaRepository.Get();
             var usuarios = _usuarioRepository.Get();
+
+            foreach (var v in ventas)
+            {
+                foreach (var u in usuarios)
+                {
+                    if(v.Usuario_id == u.Id)
+                    {
+                        v.Nombre = u.Nombre;
+                        v.Email = u.Email;
+                        v.Usuario_id = 0;
+                        break;
+                    }
+                }
+            }
             return ventas;
         }
     }

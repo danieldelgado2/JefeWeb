@@ -32,12 +32,11 @@ namespace Proyecto1.DAL.Repositories.Implementations
             {
                 var usuario = new UsuarioDTO
                 {
+                    Id = u.Id,
                     Login = u.Login,
-                    Password = u.Password
-                    /* Name = u.Name,
-                     Apellidos = u.Apellidos,
-                     Email = u.Email,
-                     Tipo = u.Rol*/
+                    Password = u.Password,
+                    Nombre = u.Nombre + " " + u.Apellidos,
+                    Email = u.Email
                 };
                 usuariosdto.Add(usuario);
             }

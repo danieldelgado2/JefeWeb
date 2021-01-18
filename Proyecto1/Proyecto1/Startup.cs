@@ -38,6 +38,8 @@ namespace Proyecto1
             {
                 options.AddPolicy("CorsPolicy",
                     builder => builder.AllowAnyOrigin()
+
+
                     .AllowAnyMethod()
                     .AllowAnyHeader());
             });

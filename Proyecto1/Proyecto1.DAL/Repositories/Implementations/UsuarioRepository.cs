@@ -35,7 +35,8 @@ namespace Proyecto1.DAL.Repositories.Implementations
                     Id = u.Id,
                     Login = u.Login,
                     Password = u.Password,
-                    Nombre = u.Nombre + " " + u.Apellidos,
+                    Nombre = u.Nombre,
+                    Apellidos = u.Apellidos,
                     Email = u.Email
                 };
                 usuariosdto.Add(usuario);

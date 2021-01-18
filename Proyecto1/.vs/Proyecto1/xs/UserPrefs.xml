@@ -1,17 +1,17 @@
 ﻿<Properties StartupConfiguration="{A6C53126-DD2E-4DA6-92FE-230B110FBAB5}|Proyecto1">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Proyecto1.DAL/Repositories/Contracts/IVentaRepository.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Proyecto1/Startup.cs">
     <Files>
-      <File FileName="Proyecto1/Startup.cs" Line="19" Column="1" />
+      <File FileName="Proyecto1/Startup.cs" Line="45" Column="16" />
       <File FileName="Proyecto1/appsettings.json" />
       <File FileName="Proyecto1/Controllers/LoginController.cs" />
       <File FileName="Proyecto1.Core/DTO/UsuarioDTO.cs" />
       <File FileName="Proyecto1.BL/Implementations/UsuarioBL.cs" />
-      <File FileName="Proyecto1.DAL/Repositories/Implementations/VentaRepository.cs" Line="40" Column="2" />
-      <File FileName="Proyecto1.DAL/Models/Usuarios.cs" Line="21" Column="43" />
-      <File FileName="Proyecto1.DAL/Models/tallerContext.cs" Line="13" Column="48" />
-      <File FileName="Proyecto1.DAL/Repositories/Contracts/IUsuarioRepository.cs" Line="12" Column="2" />
-      <File FileName="Proyecto1.DAL/Repositories/Implementations/UsuarioRepository.cs" Line="50" Column="2" />
-      <File FileName="Proyecto1.DAL/Repositories/Contracts/IVentaRepository.cs" Line="1" Column="1" />
+      <File FileName="Proyecto1.DAL/Repositories/Implementations/VentaRepository.cs" />
+      <File FileName="Proyecto1.DAL/Models/Usuarios.cs" />
+      <File FileName="Proyecto1.DAL/Models/tallerContext.cs" />
+      <File FileName="Proyecto1.DAL/Repositories/Contracts/IUsuarioRepository.cs" />
+      <File FileName="Proyecto1.DAL/Repositories/Implementations/UsuarioRepository.cs" />
+      <File FileName="Proyecto1.DAL/Repositories/Contracts/IVentaRepository.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,6 +19,7 @@
           <Node name="Proyecto1" expanded="True">
             <Node name="Proyecto1.API" expanded="True">
               <Node name="Controllers" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
             <Node name="Proyecto1.BL" expanded="True">
               <Node name="Contracts" expanded="True" />
@@ -30,9 +31,7 @@
             <Node name="Proyecto1.DAL" expanded="True">
               <Node name="Models" expanded="True" />
               <Node name="Repositories" expanded="True">
-                <Node name="Contracts" expanded="True">
-                  <Node name="IVentaRepository.cs" selected="True" />
-                </Node>
+                <Node name="Contracts" expanded="True" />
                 <Node name="Implementations" expanded="True" />
               </Node>
             </Node>

@@ -11,13 +11,17 @@ namespace Proyecto1.BL.Implementations
     {
 
         public IVentaRepository _ventaRepository { get; set; }
-        public VentaBL()
-        { 
+        public IUsuarioRepository _usuarioRepository { get; set; }
+        public VentaBL(IVentaRepository ventaRepository, IUsuarioRepository usuarioRepository)
+        {
+            _ventaRepository = ventaRepository;
+            _usuarioRepository = usuarioRepository;
         }
 
         public IEnumerable<VentaDTO> Get()
         {
             var ventas = _ventaRepository.Get();
+            var usuarios = _usuarioRepository.Get();
             return ventas;
         }
     }

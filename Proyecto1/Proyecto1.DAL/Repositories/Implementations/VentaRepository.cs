@@ -27,8 +27,8 @@ namespace Proyecto1.DAL.Repositories.Implementations
             {
                 var venta = new VentaDTO
                 {
-                    usuario_id = v.UsuarioId,
-                    importe = v.Importe
+                    Usuario_id = v.UsuarioId,
+                    Importe = v.Importe
                 };
                 ventasdto.Add(venta);
             }

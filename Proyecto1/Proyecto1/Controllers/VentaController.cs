@@ -12,16 +12,19 @@ namespace Proyecto1.API.Controllers
     public class VentaController : ControllerBase
     {
         public IVentaBL _ventaBL { get; set; }
+      
 
         public VentaController(IVentaBL venta)
         {
             _ventaBL = venta;
         }
 
-        [HttpPost]
+        [HttpGet]
         public IEnumerable<VentaDTO> Get()
         {
             return _ventaBL.Get();
         }
+
+        
     }
 }

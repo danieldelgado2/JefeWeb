@@ -43,9 +43,10 @@ namespace Proyecto1
             });
 
             services.AddDbContext<TallerContext>(opts => opts.UseMySql(Configuration["ConnectionString:TallerDB"]));
-
             services.AddScoped<IUsuarioBL, UsuarioBL>();
             services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+            services.AddScoped<IVentaBL, VentaBL>();
+            services.AddScoped<IVentaRepository, VentaRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -61,7 +62,7 @@ namespace Proyecto1
             app.UseRouting();
 
             app.UseAuthorization();
-
+            app.UseCors("CorsPolicy");
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();

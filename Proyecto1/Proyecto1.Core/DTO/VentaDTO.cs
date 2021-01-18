@@ -3,9 +3,9 @@ namespace Proyecto1.Core.DTO
 {
     public class VentaDTO
     {
-            public int usuario_id { get; set; }
-            public int importe{ get; set; }
-            public string nombre { get; set; }
+            public int Usuario_id { get; set; }
+            public int Importe{ get; set; }
+            public string Nombre { get; set; }
         public VentaDTO()
         {
         }

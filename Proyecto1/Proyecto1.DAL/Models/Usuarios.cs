@@ -18,6 +18,9 @@ namespace Proyecto1.DAL.Models
         public string Password { get; set; }
         public string Tipo { get; set; }
         public int ConcesionarioId { get; set; }
+        public string Nombre { get; set; }
+        public string Apellidos { get; set; }
+        public string Email { get; set; }
 
         public virtual Concesionarios Concesionario { get; set; }
         public virtual ICollection<MecanicosCategorias> MecanicosCategorias { get; set; }

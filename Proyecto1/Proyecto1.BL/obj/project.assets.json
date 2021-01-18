@@ -6301,37 +6301,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alvar\\.nuget\\packages\\": {}
+    "/Users/spare/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alvar\\Desktop\\Proyectos\\JefeWeb\\Proyecto1\\Proyecto1.BL\\Proyecto1.BL.csproj",
+      "projectUniqueName": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/Proyecto1.BL.csproj",
       "projectName": "Proyecto1.BL",
-      "projectPath": "C:\\Users\\alvar\\Desktop\\Proyectos\\JefeWeb\\Proyecto1\\Proyecto1.BL\\Proyecto1.BL.csproj",
-      "packagesPath": "C:\\Users\\alvar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alvar\\Desktop\\Proyectos\\JefeWeb\\Proyecto1\\Proyecto1.BL\\obj\\",
+      "projectPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/Proyecto1.BL.csproj",
+      "packagesPath": "/Users/spare/.nuget/packages/",
+      "outputPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alvar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/spare/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\alvar\\Desktop\\Proyectos\\JefeWeb\\Proyecto1\\Proyecto1.Core\\Proyecto1.Core.csproj": {
-              "projectPath": "C:\\Users\\alvar\\Desktop\\Proyectos\\JefeWeb\\Proyecto1\\Proyecto1.Core\\Proyecto1.Core.csproj"
+            "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj": {
+              "projectPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.Core/Proyecto1.Core.csproj"
             },
-            "C:\\Users\\alvar\\Desktop\\Proyectos\\JefeWeb\\Proyecto1\\Proyecto1.DAL\\Proyecto1.DAL.csproj": {
-              "projectPath": "C:\\Users\\alvar\\Desktop\\Proyectos\\JefeWeb\\Proyecto1\\Proyecto1.DAL\\Proyecto1.DAL.csproj"
+            "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/Proyecto1.DAL.csproj": {
+              "projectPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.DAL/Proyecto1.DAL.csproj"
             }
           }
         }
@@ -6360,7 +6358,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

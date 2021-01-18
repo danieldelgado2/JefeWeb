@@ -49,7 +49,8 @@ namespace Proyecto1.DAL.Models
                 entity.Property(e => e.Nombre)
                     .IsRequired()
                     .HasColumnName("nombre")
-                    .HasMaxLength(50);
+                    .HasMaxLength(50)
+                    .HasDefaultValueSql("'0'");
             });
 
             modelBuilder.Entity<Clientes>(entity =>
@@ -332,15 +333,21 @@ namespace Proyecto1.DAL.Models
                     .HasColumnName("id")
                     .HasColumnType("int(11)");
 
+                entity.Property(e => e.Apellidos).HasColumnName("apellidos");
+
                 entity.Property(e => e.ConcesionarioId)
                     .HasColumnName("concesionario_id")
                     .HasColumnType("int(11)");
+
+                entity.Property(e => e.Email).HasColumnName("email");
 
                 entity.Property(e => e.Login)
                     .IsRequired()
                     .HasColumnName("login")
                     .HasMaxLength(20)
                     .HasDefaultValueSql("''");
+
+                entity.Property(e => e.Nombre).HasColumnName("nombre");
 
                 entity.Property(e => e.Password)
                     .IsRequired()

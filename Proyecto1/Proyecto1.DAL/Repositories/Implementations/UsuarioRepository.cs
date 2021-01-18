@@ -34,10 +34,10 @@ namespace Proyecto1.DAL.Repositories.Implementations
                 {
                     Login = u.Login,
                     Password = u.Password
-                   /* Name = u.Name,
-                    Apellidos = u.Apellidos,
-                    Email = u.Email,
-                    Tipo = u.Rol*/
+                    /* Name = u.Name,
+                     Apellidos = u.Apellidos,
+                     Email = u.Email,
+                     Tipo = u.Rol*/
                 };
                 usuariosdto.Add(usuario);
             }

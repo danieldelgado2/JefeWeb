@@ -62,6 +62,8 @@ namespace Proyecto1
             app.UseRouting();
 
             app.UseAuthorization();
+
+
             app.UseCors("CorsPolicy");
             app.UseEndpoints(endpoints =>
             {

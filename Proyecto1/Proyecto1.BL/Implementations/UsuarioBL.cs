@@ -8,7 +8,8 @@ namespace Proyecto1.BL.Implementations
 {
     public class UsuarioBL : IUsuarioBL
     {
-        public IUsuarioRepository _usuarioRepository;
+        public IUsuarioRepository _usuarioRepository { get; set; }
+
         public UsuarioBL(IUsuarioRepository usuarioRepository)
         {
             _usuarioRepository = usuarioRepository;
@@ -16,7 +17,7 @@ namespace Proyecto1.BL.Implementations
 
         public bool Login(UsuarioDTO usuarioDTO)
         {
-            return usuarioDTO.Login == "ventas" && usuarioDTO.Password == "1234";
+            return _usuarioRepository.Login(usuarioDTO);
         }
 
           public IEnumerable<UsuarioDTO> Get()

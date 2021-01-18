@@ -36,3 +36,5 @@ C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.BL\obj\Debug\netcor
 C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.BL\obj\Debug\netcoreapp3.1\Proyecto1.BL.csproj.CopyComplete
 C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.BL\obj\Debug\netcoreapp3.1\Proyecto1.BL.dll
 C:\Users\alvar\Desktop\Proyectos\JefeWeb\Proyecto1\Proyecto1.BL\obj\Debug\netcoreapp3.1\Proyecto1.BL.pdb
+/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/bin/Debug/netcoreapp3.1/Proyecto1.DAL.dll
+/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1.BL/bin/Debug/netcoreapp3.1/Proyecto1.DAL.pdb

@@ -16,11 +16,32 @@ namespace Proyecto1.DAL.Repositories.Implementations
             _context = context;
         }
 
-        public bool Login(UsuarioDTO usuarioDTO)
+        
+        public UsuarioDTO Login(UsuarioDTO usuarioDTO)
         {
-            return _context.Usuarios.Any(u => u.Login == usuarioDTO.Login && u.Password == usuarioDTO.Password);
+            
+
+            var buscaUsuario = _context.Usuarios.FirstOrDefault(u=>u.Login == usuarioDTO.Login && u.Password == u.Password);
+
+            if (buscaUsuario == null)
+            {
+                return null;
+            }
+            var encontrado = new UsuarioDTO
+            {
+                Login = buscaUsuario.Login,
+                Password = buscaUsuario.Password,
+                Nombre = buscaUsuario.Nombre,
+                Apellidos = buscaUsuario.Apellidos,
+                Email = buscaUsuario.Email,
+                Tipo = buscaUsuario.Tipo
+
+            };
+
+            return encontrado;
         }
 
+        
         public IEnumerable<UsuarioDTO> Get()
         {
             var usuarios = _context.Usuarios.ToList();

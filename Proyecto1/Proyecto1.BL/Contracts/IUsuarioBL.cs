@@ -5,7 +5,7 @@ namespace Proyecto1.BL.Contracts
 {
     public interface IUsuarioBL
     {
-        bool Login(UsuarioDTO usuarioDTO);
+        UsuarioDTO Login(UsuarioDTO usuarioDTO);
         IEnumerable<UsuarioDTO> Get();
     }
 }

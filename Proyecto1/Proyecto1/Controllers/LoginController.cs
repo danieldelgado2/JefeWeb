@@ -18,7 +18,7 @@ namespace Proyecto1.API.Controllers
 
 
         [HttpPost]
-        public bool Login(UsuarioDTO usuarioDTO)
+        public UsuarioDTO Login(UsuarioDTO usuarioDTO)
         {
             return _usuarioBL.Login(usuarioDTO);
         }

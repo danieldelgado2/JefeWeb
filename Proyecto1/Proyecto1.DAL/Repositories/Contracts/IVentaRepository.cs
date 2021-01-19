@@ -4,9 +4,9 @@ using Proyecto1.Core.DTO;
 
 namespace Proyecto1.DAL.Repositories.Contracts
 {
-    public interface IUsuarioRepository
+    public interface IVentaRepository
     {
-        bool Login(UsuarioDTO usuarioDTO);
-        IEnumerable<UsuarioDTO> Get();
+
+        IEnumerable<VentaDTO> Get();
     }
 }

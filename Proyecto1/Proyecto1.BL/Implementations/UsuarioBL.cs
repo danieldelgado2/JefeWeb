@@ -15,7 +15,7 @@ namespace Proyecto1.BL.Implementations
             _usuarioRepository = usuarioRepository;
         }
 
-        public bool Login(UsuarioDTO usuarioDTO)
+        public UsuarioDTO Login(UsuarioDTO usuarioDTO)
         {
             return _usuarioRepository.Login(usuarioDTO);
         }

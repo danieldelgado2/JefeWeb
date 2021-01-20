@@ -19,6 +19,10 @@ namespace Proyecto1.BL.Implementations
             _usuarioRepository = usuarioRepository;
         }
 
+        /// <summary>
+        /// Devuelve un listado con el importe total de cada empleado
+        /// </summary>
+        /// <returns>IEnumerable<VentaDTO></returns>
         public IEnumerable<VentaDTO> Get()
         {
             var ventas = _ventaRepository.Get();
@@ -26,6 +30,7 @@ namespace Proyecto1.BL.Implementations
             var ids = new List<int>();
             List<VentaDTO> ventasFinales = new List<VentaDTO>();
 
+            //Se establece el Nombre, apellido y email del empleado
             foreach (var v in ventas)
             {
                 foreach (var u in usuarios)
@@ -41,7 +46,7 @@ namespace Proyecto1.BL.Implementations
                 }
             }
 
-          
+            //Se suma el importe de cada venta cuando es realizada por el mismo empleado
             foreach (var v in ventas)
             {
                 if (!ventasFinales.Any(venta => venta.Usuario_id == v.Usuario_id))

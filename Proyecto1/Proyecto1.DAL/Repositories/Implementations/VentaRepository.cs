@@ -16,6 +16,10 @@ namespace Proyecto1.DAL.Repositories.Implementations
             _context = context;
         }
 
+        /// <summary>
+        /// Devuelve todos los registros de ventas
+        /// </summary>
+        /// <returns>IEnumerable<VentaDTO></returns>
         public IEnumerable<VentaDTO> Get()
         {
             var ventas = _context.Ventas.ToList();

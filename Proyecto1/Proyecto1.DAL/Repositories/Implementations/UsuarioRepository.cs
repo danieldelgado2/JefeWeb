@@ -16,7 +16,11 @@ namespace Proyecto1.DAL.Repositories.Implementations
             _context = context;
         }
 
-        
+            /// <summary>
+            /// Autenticación del login
+            /// </summary>
+            /// <param name="usuarioDTO"></param>
+            /// <returns>UsuarioDTO</returns>
         public UsuarioDTO Login(UsuarioDTO usuarioDTO)
         {
             
@@ -41,7 +45,10 @@ namespace Proyecto1.DAL.Repositories.Implementations
             return encontrado;
         }
 
-        
+        /// <summary>
+        /// Devuelve todos los usuarios
+        /// </summary>
+        /// <returns>IEnumerable<UsuarioDTO></returns>
         public IEnumerable<UsuarioDTO> Get()
         {
             var usuarios = _context.Usuarios.ToList();

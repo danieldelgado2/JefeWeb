@@ -25,7 +25,7 @@ namespace Proyecto1.DAL.Repositories.Implementations
         {
             
 
-            var buscaUsuario = _context.Usuarios.FirstOrDefault(u=>u.Login == usuarioDTO.Login && u.Password == u.Password);
+            var buscaUsuario = _context.Usuarios.FirstOrDefault(u=>u.Login == usuarioDTO.Login && u.Password == usuarioDTO.Password);
 
             if (buscaUsuario == null)
             {

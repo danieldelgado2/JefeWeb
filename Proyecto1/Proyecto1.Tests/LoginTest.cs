@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace Proyecto1.IntegrationTests
+namespace Proyecto1.Tests
 {
     public class LoginTests : IClassFixture<TestFixture<Startup>>
     {

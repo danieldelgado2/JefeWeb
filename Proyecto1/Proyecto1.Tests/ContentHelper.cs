@@ -2,7 +2,7 @@
 using System.Net.Http;
 using Newtonsoft.Json;
 
-namespace Proyecto1.IntegrationTests
+namespace Proyecto1.Tests
 {
 
     public static class ContentHelper

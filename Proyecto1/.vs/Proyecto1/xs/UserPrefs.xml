@@ -1,16 +1,14 @@
 ﻿<Properties StartupConfiguration="{A6C53126-DD2E-4DA6-92FE-230B110FBAB5}|Proyecto1">
   <MonoDevelop.Ide.Workbench ActiveDocument="Proyecto1.Tests/LoginTest.cs">
     <Files>
-      <File FileName="Proyecto1.Tests/LoginTest.cs" Line="1" Column="1" />
-      <File FileName="Proyecto1.Tests/TestFixture.cs" Line="1" Column="1" />
+      <File FileName="Proyecto1.Tests/LoginTest.cs" Line="13" Column="1" />
+      <File FileName="Proyecto1.Tests/TestFixture.cs" Line="14" Column="21" />
+      <File FileName="Proyecto1.Tests/ContentHelper.cs" Line="5" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Proyecto1" expanded="True">
-            <Node name="Proyecto1.BL" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-            </Node>
             <Node name="Proyecto1.Tests" expanded="True">
               <Node name="LoginTest.cs" selected="True" />
             </Node>
@@ -22,9 +20,7 @@
           <Node name="Proyecto1" expanded="True">
             <Node name="Proyecto1.Tests" expanded="True">
               <Node name="Proyecto1.Tests" expanded="True">
-                <Node name="LoginTests" expanded="True">
-                  <Node name="LoginTests_LoginCorrect_ReturnsTrue" selected="True" />
-                </Node>
+                <Node name="LoginTests" expanded="True" selected="True" />
               </Node>
             </Node>
           </Node>

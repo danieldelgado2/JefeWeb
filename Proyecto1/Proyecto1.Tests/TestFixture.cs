@@ -11,7 +11,7 @@ using Microsoft.AspNetCore.TestHost;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Proyecto1.IntegrationTests
+namespace Proyecto1.Tests
 {
     public class TestFixture<TStartup> : IDisposable
     {

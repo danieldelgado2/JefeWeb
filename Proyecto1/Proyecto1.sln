@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.808.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto1.API", "Proyecto1\Proyecto1.API.csproj", "{A6C53126-DD2E-4DA6-92FE-230B110FBAB5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto1", "Proyecto1\Proyecto1.csproj", "{A6C53126-DD2E-4DA6-92FE-230B110FBAB5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto1.Core", "Proyecto1.Core\Proyecto1.Core.csproj", "{F778F497-7667-4940-BF00-9A02963DB61F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto1.DAL", "Proyecto1.DAL\Proyecto1.DAL.csproj", "{677B7686-68CD-41E1-B07D-DADA925FA540}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto1.BL", "Proyecto1.BL\Proyecto1.BL.csproj", "{3352E498-722D-49BE-A0C2-2B12AED879D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto1.Tests", "Proyecto1.Tests\Proyecto1.Tests.csproj", "{33DD6403-7A1C-454E-96A0-3CC47EDFD618}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3352E498-722D-49BE-A0C2-2B12AED879D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3352E498-722D-49BE-A0C2-2B12AED879D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3352E498-722D-49BE-A0C2-2B12AED879D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33DD6403-7A1C-454E-96A0-3CC47EDFD618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DD6403-7A1C-454E-96A0-3CC47EDFD618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DD6403-7A1C-454E-96A0-3CC47EDFD618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DD6403-7A1C-454E-96A0-3CC47EDFD618}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

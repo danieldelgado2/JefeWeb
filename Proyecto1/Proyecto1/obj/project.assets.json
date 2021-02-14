@@ -6326,9 +6326,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1/Proyecto1.API.csproj",
-      "projectName": "Proyecto1.API",
-      "projectPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1/Proyecto1.API.csproj",
+      "projectUniqueName": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1/Proyecto1.csproj",
+      "projectName": "Proyecto1",
+      "projectPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1/Proyecto1.csproj",
       "packagesPath": "/Users/spare/.nuget/packages/",
       "outputPath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1/obj/",
       "projectStyle": "PackageReference",

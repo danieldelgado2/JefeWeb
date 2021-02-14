@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bf29KID3f9bVTYD1NFF7KvhA74kp6DgHRW/1GpiWVGZve3KURqW3j44IOAkWDbCE/nUhf49E5wCSKntci9vXog==",
+  "dgSpecHash": "xFxs/Y5CCY5h7/2fsxsoCJpWR+S+zT8Dk0ztEv83HRu02eLHrjZAGYaX3wI0A3kzSHyZQvJIaW83k3sCZApM2A==",
   "success": true,
-  "projectFilePath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1/Proyecto1.API.csproj",
+  "projectFilePath": "/Users/spare/Desktop/JefeWeb/Proyecto1/Proyecto1/Proyecto1.csproj",
   "expectedPackageFiles": [
     "/Users/spare/.nuget/packages/bouncycastle.netcore/1.8.3/bouncycastle.netcore.1.8.3.nupkg.sha512",
     "/Users/spare/.nuget/packages/google.protobuf/3.11.4/google.protobuf.3.11.4.nupkg.sha512",
